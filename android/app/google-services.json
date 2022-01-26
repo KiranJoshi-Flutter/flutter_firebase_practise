@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889841764449",
+    "project_id": "ninja-brew-crew-2-b53f9",
+    "storage_bucket": "ninja-brew-crew-2-b53f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889841764449:android:cbebd8e05e9891c9acc220",
+        "android_client_info": {
+          "package_name": "keronz.example.flutter_firebase_practise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889841764449-7sbvmaum5mgv4ov5h5i3bni7cf9sf5tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgg80LyPw8yib9k1c7Ymy0c4WxdhS3TGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889841764449-7sbvmaum5mgv4ov5h5i3bni7cf9sf5tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
